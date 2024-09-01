@@ -1,0 +1,65 @@
+
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.nav-parent {
+    margin: 25px 15px 25px 15px;
+    padding-left: 100px;
+    padding-top: 25px;
+
+    
+}
+.menu {
+    display: flex;
+    gap: 50px;
+    margin-left: 300px;
+    font-size: 17px;
+
+}
+.nav-bar {
+    display: flex;
+}
+.btn {
+    display: flex;
+    margin-top: -60px;
+    margin-left: 76%;
+
+}
+button {
+    padding: 20px 30px 20px 30px;
+    border-radius: 18px;
+    background-color: transparent;
+}
+.text-1 {
+    height: 200px;
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    gap: 330px;
+    margin-left: -50px;
+    margin-top: 70px;
+}
+.text-1 img {
+    height: 400px;
+    
+}
+.logos {
+    margin-top: 40vh;
+}
+.headnsub {
+    margin-top: 20vh;
+}
+
+.services {
+    margin-top: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.services img {
+    height: 330px;
+}
+.headnsub2 {
+    margin-top: 20vh;
+}
